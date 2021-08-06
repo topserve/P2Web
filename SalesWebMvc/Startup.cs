@@ -13,6 +13,7 @@ using SalesWebMvc.Data;
 using SalesWebMvc.Services;
 using System.Globalization;
 using Microsoft.AspNetCore.Localization;
+using SalesWebMvc.Models;
 
 namespace SalesWebMvc
 {
