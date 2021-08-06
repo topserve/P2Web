@@ -10,7 +10,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Data;
-using SalesWebMvc.Service;
+using SalesWebMvc.Services;
 using System.Globalization;
 using Microsoft.AspNetCore.Localization;
 
